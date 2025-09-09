@@ -1,0 +1,17 @@
+Core Google Cloud Libraries
+google-cloud-bigquery
+google-cloud-sql-connector
+google-cloud-spanner
+
+Database Drivers & Toolkits
+PyMySQL
+sqlalchemy
+
+Data Manipulation
+pandas==2.2.2
+gcsfs
+fsspec==2025.3.0
+
+Visualization
+matplotlib
+seaborn
